@@ -1,5 +1,3 @@
-![Transformatik](https://www.transformatik.ch/images/logo.svg)
-
 - Transformatik - Die digitale Zukunft aus einer Hand
 - Visit us on https://transformatik.ch/
 
